@@ -1,0 +1,29 @@
+#	documents/
+#	|	source-hindi/
+#	|		//hindi-document-00001.txt...
+#	|	testing/
+#	|	|	results/ (dirs in here are auto created but this one still needs to be done manually)
+#	|	|	|	datepassed/
+#	|	|	|	detscore/
+#	|	|	|	fqpassed/
+#	|	|	|	prepscore/
+#	|	|	|	titlepassed/
+#	|	|	|	uqpassed/
+#	|	|	|	wordpassed/
+#	|	|	target-hindi/
+#	|	|	|	//english-document-00001.txt... (translated hindi)
+#	|	|	target-english/
+#	|	|	|	//english-document-00001.txt... (originals)
+#	|	training/
+#	|	|	results/ (dirs in here are auto created but this one still needs to be done manually)
+#	|	|	|	datepassed/
+#	|	|	|	detscore/
+#	|	|	|	fqpassed/
+#	|	|	|	prepscore/
+#	|	|	|	titlepassed/
+#	|	|	|	uqpassed/
+#	|	|	|	wordpassed/
+#	|	|	target-hindi/
+#	|	|	|	//english-document-00001.txt... (translated hindi)
+#	|	|	target-english/
+#	|	|	|	//english-document-00001.txt... (originals)
