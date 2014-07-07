@@ -14,7 +14,7 @@ Please have a look at `config.py` before running any files. The corpus and testi
 (basedir)clinss-fire13/
     documents/
   	|	source-hindi/
-  	|		//hindi-document-00001.txt...
+  	|	|	//hindi-document-00001.txt...
   	|	testing/
   	|	|	results/ (dirs in here are auto created but this one still needs to be done manually)
   	|	|	|	datepassed/
